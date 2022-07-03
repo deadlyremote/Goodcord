@@ -1,0 +1,57 @@
+# Windows image file cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =======================
+# Operating System Files
+# =======================
+
+# OSX
+# =======================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appeae in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.json
+plugins/PrivatePlugin.js
+plugins/Quoting.js
+temp/Goodcord.zip
+temp/GoodcordApp-stable/goodcord.js
+temp/GoodcordApp-stable/lib/Goodcord.js
+temp/GoodcordApp-stable/lib/Utils.js
+temp/GoodcordApp-Stable/README.md
+plugins/Goodcord+ Setup.exe
+plugins/Z_LastPlugin.js

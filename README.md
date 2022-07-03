@@ -1,0 +1,2 @@
+# Goodcord
+Themes for Goodcord
